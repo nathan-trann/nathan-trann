@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nathan Tran
 ====================================================================================================================================
 
-Software Engineer
+AI-Native Software Engineer
 -----------------
 
 Developer with a habit of asking why things are built the way they are. Interested in clean architecture, thoughtful design, and continuously getting better at
